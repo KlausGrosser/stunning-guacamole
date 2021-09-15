@@ -1,4 +1,4 @@
-# How to make a pull request and make vhanges to a remote repo
+# How to make a pull request and make changes to a remote repo
 1. Head to the GitHub repo you want to contribute to.
 2. Created your own fork.
 3. Clone your fork and create a new branch.
